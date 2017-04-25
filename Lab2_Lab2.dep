@@ -1,0 +1,7 @@
+Dependencies for Project 'Lab2', Target 'Lab2': (DO NOT MODIFY !)
+F (.\Startup.s)(0x58FD488A)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Lab2-ID:\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\ARM\PACK\Keil\LM4F_DFP\1.0.0\Device\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "LM4F120 SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.s)(0x58FED5D2)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Lab2-ID:\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\ARM\PACK\Keil\LM4F_DFP\1.0.0\Device\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "LM4F120 SETA 1"--list .\main.lst --xref -o .\main.o --depend .\main.d)
+F (..\tm4c123gh6pm.s)(0x58FEAB83)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Lab2-ID:\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\ARM\PACK\Keil\LM4F_DFP\1.0.0\Device\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "LM4F120 SETA 1"--list .\tm4c123gh6pm.lst --xref -o .\tm4c123gh6pm.o --depend .\tm4c123gh6pm.d)
+F (D:\EE319Kware\inc\tm4c123gh6pm.h)(0x53E65B1A)()
+F (D:\EE319Kware\InputOutput_4C123\texas.o)(0x5403712E)()
+F (..\C8_Security\TExaS.h)(0x544C7C22)()
